@@ -26,15 +26,15 @@ Copy code
 ## Install dependencies:
 
 bash
-Copy code
+Copy this code
 - cd My-portfolio
 - npm install
 ## Run the development server:
 
 bash
 Copy code
-npm start
-Open http://localhost:3000 to view the portfolio in your browser.
+- npm start
+# Open http://localhost:3000 to view the portfolio in your browser.
 
 ##About Me
 I'm passionate about web development and creating innovative solutions that make a positive impact. With a background in full stack development, I'm constantly seeking opportunities to learn and grow as a developer.
