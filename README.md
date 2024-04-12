@@ -13,7 +13,7 @@ Dynamic Data: Project data is fetched dynamically using the GitHub API, ensuring
 Modern Styling: Leveraging the power of Tailwind CSS, the portfolio boasts a sleek and modern design with consistent styling throughout.
 
 ## Technologies Used
--- React
+**// React
 -- Tailwind CSS
 -- GitHub API
 -- Usage
