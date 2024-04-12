@@ -21,14 +21,14 @@ Modern Styling: Leveraging the power of Tailwind CSS, the portfolio boasts a sle
 
 
 Copy code
-git clone https://github.com/mukulsingh75/My-portfolio.git
+- git clone https://github.com/mukulsingh75/My-portfolio.git
 
 ## Install dependencies:
 
 bash
 Copy code
-cd My-portfolio
-npm install
+- cd My-portfolio
+- npm install
 ## Run the development server:
 
 bash
