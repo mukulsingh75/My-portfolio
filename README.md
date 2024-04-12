@@ -22,20 +22,21 @@ Modern Styling: Leveraging the power of Tailwind CSS, the portfolio boasts a sle
 
 Copy code
 git clone https://github.com/mukulsingh75/My-portfolio.git
-Install dependencies:
+
+## Install dependencies:
 
 bash
 Copy code
 cd My-portfolio
 npm install
-Run the development server:
+## Run the development server:
 
 bash
 Copy code
 npm start
 Open http://localhost:3000 to view the portfolio in your browser.
 
-About Me
+##About Me
 I'm passionate about web development and creating innovative solutions that make a positive impact. With a background in full stack development, I'm constantly seeking opportunities to learn and grow as a developer.
 
 Feel free to explore my portfolio and reach out if you have any questions or collaboration opportunities!
