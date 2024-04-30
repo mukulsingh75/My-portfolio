@@ -20,28 +20,28 @@ const Projects = () => {
       src: Sandesh,
       desc: "Sandesh is a Chat App made using ReactJS + Tailwind CSS + ChatEngine API Service + Firebase authentication...",
       demo: "https://sandeshh.netlify.app/",
-      code: "https://github.com/dipayansarkar47/Sandesh"
+      code: "https://github.com/mukulsingh75"
     },
     {
       id: 2,
       src: ShopEasy,
       desc: "This Full-Stack ShopKaro e-commerce website is made using ReactJS, Tailwind CSS, Firebase....",
       demo: "https://shopeasyy.vercel.app/",
-      code: "https://github.com/dipayansarkar47/shopeasy"
+      code: "https://github.com/mukulsingh75"
     },
     {
       id: 3,
       src: Chatbot,
       desc: "An Artificially Intelligent Chatbot using the GPT-4 Model to help people.",
       demo: "https://cwbbot.vercel.app/",
-      code: "https://github.com/dipayansarkar47/ai-chatbot"
+      code: "https://github.com/mukulsingh75"
     },
     {
       id: 4,
       src: Ide,
       // desc: "Keeper is a simple note taking application made using Flutter...",
       demo: "https://opeditor.vercel.app/",
-      code: "https://github.com/dipayansarkar47/online-code-editor"
+      code: "https://github.com/mukulsingh75"
     },
     {
       id: 5,
@@ -55,7 +55,7 @@ const Projects = () => {
       src: Gist,
       // desc: "It is a Face-Detection application made using Python and Computer Vision...",
       demo: "https://gist-ai.vercel.app/",
-      code: "https://github.com/dipayansarkar47/Gist.AI-Summarizer"
+      code: "https://github.com/mukulsingh75"
     },
   ]
 
