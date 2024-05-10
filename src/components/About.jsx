@@ -3,7 +3,7 @@ import { AiOutlineCloudDownload } from 'react-icons/ai'
 import '../App.css'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-import resume from '../assets/resume.pdf'
+import resume from '../assets/mukulresume.pdf'
 
 
 const About = () => {

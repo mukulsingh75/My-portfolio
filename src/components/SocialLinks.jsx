@@ -1,8 +1,8 @@
-import React from 'react'
-import { FaGithub, FaLinkedin } from 'react-icons/fa'
-import { HiOutlineMail } from 'react-icons/hi'
-import { BsFillPersonLinesFill } from 'react-icons/bs'
-import resume from '../assets/resume.pdf'
+import React from 'react';
+import { FaGithub, FaLinkedin } from 'react-icons/fa';
+import { HiOutlineMail } from 'react-icons/hi';
+import { BsFillPersonLinesFill } from 'react-icons/bs';
+import resume from '../assets/mukulresume.pdf'; // Make sure the path to your resume file is correct
 
 const SocialLinks = () => {
 
@@ -42,11 +42,11 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={25} />
                 </>
             ),
-            href: "/Dipayan's Resume.pdf",
+            href: resume, // Update this line with the correct path to your resume file
             style: "rounded-br-md",
-            download: true
+            download: "mukulresume.pdf" // Optionally specify the file name for download
         },
-    ]
+    ];
 
     return (
         <div className='hidden lg:flex flex-col top-[35%] left-0 fixed'>
@@ -65,7 +65,7 @@ const SocialLinks = () => {
                 ))}
             </ul>
         </div>
-    )
-}
+    );
+};
 
-export default SocialLinks
+export default SocialLinks;
