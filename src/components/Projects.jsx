@@ -1,7 +1,7 @@
 import React,{useEffect} from 'react'
 import Sandesh from '../assets/projects/sandeshh.png'
 import Gist from '../assets/projects//gist.png'
-import Chatbot from '../assets/projects/chatbot.png'
+import airbnb from '../assets/projects/airbnb.png'
 import Ide from '../assets/projects/ide.png'
 import ShopEasy from '../assets/projects/shopeasy.png'
 import Upscale from '../assets/projects/upscale.png'
@@ -31,10 +31,10 @@ const Projects = () => {
     },
     {
       id: 3,
-      src: Chatbot,
-      desc: "An Artificially Intelligent Chatbot using the GPT-4 Model to help people.",
-      demo: "https://cwbbot.vercel.app/",
-      code: "https://github.com/mukulsingh75"
+      src: airbnb,
+      desc: "An Innovative Airbnb App Redefining Travel Experiences using Mongodb, Express, Node.js, Ejs & Mongo Atlas ",
+      demo: "https://airbnb-clone-app-1.onrender.com/listings",
+      code: "https://github.com/mukulsingh75/Airbnb_clone_App"
     },
     {
       id: 4,
