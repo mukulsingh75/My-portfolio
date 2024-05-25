@@ -33,7 +33,7 @@ const Projects = () => {
       id: 3,
       src: airbnb,
       desc: "An Innovative Airbnb App Redefining Travel Experiences using Mongodb, Express, Node.js, Ejs & Mongo Atlas ",
-      demo: "https://airbnb-clone-app-1.onrender.com/listings",
+      demo: "https://web-app-v9h0.onrender.com/listings",
       code: "https://github.com/mukulsingh75/Airbnb_clone_App"
     },
     {
