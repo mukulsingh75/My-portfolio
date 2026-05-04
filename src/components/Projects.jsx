@@ -1,18 +1,17 @@
-import React,{useEffect} from 'react'
+import React, { useEffect } from 'react'
 import Sandesh from '../assets/projects/sandeshh.png'
 import Gist from '../assets/projects//gist.png'
 import airbnb from '../assets/projects/airbnb.png'
 import Ide from '../assets/projects/ide.png'
 import ShopEasy from '../assets/projects/shopeasy.png'
-import Upscale from '../assets/projects/upscale.png'
 import weather1 from '../assets/projects/weather1.jpg'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
 const Projects = () => {
-  useEffect(()=> {
-    AOS.init({duration: 1000})
-})
+  useEffect(() => {
+    AOS.init({ duration: 1000 })
+  })
 
   const Projects = () => [
     {
@@ -68,7 +67,7 @@ const Projects = () => {
           <h2 className='text-4xl font-bold inline border-b-4 border-gray-400'>Projects</h2>
           <p className='py-6'>Check out some of my work </p>
         </div>
-        <div   className='grid sm:grid-cols-2 md:grid-cols-3 mb-20 gap-8 px-12 sm:px-0'>
+        <div className='grid sm:grid-cols-2 md:grid-cols-3 mb-20 gap-8 px-12 sm:px-0'>
           {
             Projects().map(({ id, src, desc, demo, code }) => (
 
@@ -76,11 +75,11 @@ const Projects = () => {
                 <img src={src} alt="Ai" className='rounded-md duration-200 hover:scale-105' />
                 <p className='p-2 text-justify font-extralight'>{desc}</p>
                 <div className='flex items-center justify-center'>
-                  
+
                   <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 bg-gradient-to-l from-gray-700 to-blue-900 rounded-md'>
                     <a href={demo}>Demo</a>
                   </button>
-                  <button  className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 bg-gradient-to-l from-purple-900 to-gray-700 rounded-md'>
+                  <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 bg-gradient-to-l from-purple-900 to-gray-700 rounded-md'>
                     <a href={code}>Code</a>
                   </button>
                 </div>
