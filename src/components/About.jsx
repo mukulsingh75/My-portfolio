@@ -21,16 +21,21 @@ const About = () => {
                 </div>
 
                 <p data-aos="slide-up" data-aos-duration="500" className='text-xl mt-5 ease-in fade-in'>
-                I began my journey as a B.Tech Computer Science & Engineering student at Ambalika Institute of Engineering and Technology in 2021. Throughout my academic career, I fearlessly ventured into various fields, including Java programming, content creation, freelancing, and entrepreneurship. Along the way, I immersed myself in the realm of cutting-edge technologies, such as Java, web development, React, Firebase, and utilized Git & GitHub for version control system management.
+                    I'm a Backend-Focused Full Stack Developer with 2+ years of professional experience building scalable, production-grade web applications. Currently at EitBiz Technologies, I architect high-performance RESTful APIs and cloud infrastructure using Node.js, Express.js, PostgreSQL, Redis, and AWS.
+
+                    I began my journey as a B.Tech Computer Science & Engineering student at Ambalika Institute of Engineering and Technology in 2021. Throughout my academic career, I fearlessly ventured into various fields, including Java programming, web development, React, Firebase,  freelancing, and entrepreneurship. This diverse exploration helped me develop a comprehensive understanding of the full technology stack.
                 </p>
                 <br />
                 <p data-aos="slide-up" data-aos-duration="500" className='text-xl mt-5 ease-in fade-in'>
-                I'm on an exciting journey in the world of technology and innovation. As a driven individual, I had achieved a significant milestone by successfully clearing two rounds of India's largest hiring challenge, CodeKaze, securing an impressive rank of AIR 2707. This challenge, conducted by Coding Ninjas
+                    My expertise lies in designing complex backend architectures, optimizing database performance with PostGIS geospatial queries and advanced indexing strategies, and implementing real-time communication systems using Socket.IO and Redis. I've successfully built platforms like Zembora (a ride & rescue platform with live tracking) and Munch Market (an Airbnb-style food marketplace), handling everything from dual-role user systems to real-time chat and push notifications.
+
+                    I focus on shipping clean, scalable products end-to-end — from designing APIs to crafting responsive interfaces — while keeping pace with the latest trends and tools in the field.
+
                 </p>
-                {/* <br />
+                <br />
                 <p data-aos="fade-in" data-aos-duration="500" className='text-xl mt-5 ease-in  fade-in'>
-                    I've worked for many projects for my clients as well as my personal projects. I also contributed for the GDSC RKMGEC web page. I have a Instagram page (@codewithbiki) where I create content for those who are just starting with programming and have more that 70k followers. I have learning attitude and growth mindset which helps me to collaborate with people and work for the society.
-                </p> */}
+                    When I'm not coding, I'm exploring new technologies, contributing to open-source projects, or working on innovative side projects that solve real-world problems.
+                </p>
                 <div data-aos="zoom-in" data-aos-duration="500" className='mb-20 fade-in flex mx-auto items-center justify-center hover:scale-105 duration-300 rounded bg-gradient-to-b from-cyan-500 to-blue-500 lg:w-1/5 md:w-1/5 w-2/4 h-10 text-center cursor-pointer mt-10 gap-2'>
 
 
